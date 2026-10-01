@@ -2,11 +2,10 @@
 
 ## Daftar Tugas
 
-### Tugas 1 — Kurir Directory
-https://github.com/farahamelia005-glitch/tugas-android-kurir
-
-### Tugas 2 — Navigasi / Storage
+### Tugas 1 — Navigasi Activity
 https://github.com/farahamelia005-glitch/tugas-android-navigasi
 
-### Tugas 3
-Belum tersedia
+### Tugas 2 — 
+
+### Tugas 3 — Kurir Directory
+https://github.com/farahamelia005-glitch/tugas-android-kurir
