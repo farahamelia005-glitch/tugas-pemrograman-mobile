@@ -2,11 +2,25 @@
 
 ## Daftar Tugas
 
-### Tugas 1 — Navigasi Activity
+### Tugas P.9 — Navigasi Activity
 https://github.com/farahamelia005-glitch/tugas-android-navigasi
 
-### Tugas 2 — Belajar Storage
+### Tugas P.9-2 — Belajar Storage
 https://github.com/farahamelia005-glitch/tugas-android-splash-storage
 
-### Tugas 3 — Kurir Directory
+### Tugas P.10 — Kurir Directory
 https://github.com/farahamelia005-glitch/tugas-android-kurir
+
+### Tugas P.10-2 — Logistik
+https://github.com/farahamelia005-glitch/tugas-android-logistik
+
+### Tugas P.11 — Fintech Billing App
+https://github.com/farahamelia005-glitch/tugas-android-billing
+
+### Tugas P.12 — 
+
+
+### Tugas P.13 — 
+
+
+### Tugas P.14 & 15 - 
